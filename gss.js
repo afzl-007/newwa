@@ -896,11 +896,11 @@ const menuText = `*🔢 TYPE BELOW NUMBER*
 9. ᴍᴀɪɴᴍᴇɴᴜ`;
 
 const menuMessage = `
-👨‍💻 GSSBOTWA - ＭＤ - Ｖ2 👨‍💻
+👨‍💻 𝑫𝜣𝜞𝜟 𝚩𝚯𝚻𝐖𝚫 👨‍💻
 ╭─────────────·
-│📍 ᴠᴇʀꜱɪᴏɴ: ᴠ2
-│👨‍💻 ᴏᴡɴᴇʀ : ᴇᴛʜɪx xsɪᴅ      
-│👤 ɴᴜᴍʙᴇʀ: 917050906659
+│📍 ᴠᴇʀꜱɪᴏɴ: ᴠ6
+│👨‍💻 ᴏᴡɴᴇʀ : ᴍᴜʜᴀᴍᴍᴀᴅ ᴀꜰᴢᴀʟ     
+│👤 ɴᴜᴍʙᴇʀ: +919037978806
 ╰─────────────
 
 ╭───═❮ *ᴍᴇɴᴜ ʟɪsᴛ* ❯═───❖
@@ -1663,7 +1663,7 @@ case "score":
     const result = await response.json();
 
     let formattedResult = `╭══════════════•∞•══╮\n`;
-    formattedResult += `│⿻   *GSS BOTWA 😎 🔥*\n`;
+    formattedResult += `│⿻   *DORA BOTWA 😎 🔥*\n`;
     formattedResult += `│⿻   *LIVE MATCH INFO* ✨\n`;
     formattedResult += `│⿻\n`;
 
@@ -2373,7 +2373,7 @@ await doReact("⬇️");
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.duration}
@@ -2416,7 +2416,7 @@ await doReact("⬇️");
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.duration}
@@ -2478,7 +2478,7 @@ case 'ytvdoc':
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.duration}
@@ -2521,7 +2521,7 @@ case 'ytvdoc':
 
           const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.duration}
@@ -2588,7 +2588,7 @@ case 'ytmp3':
   },
   caption: `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.timestamp}
@@ -2637,7 +2637,7 @@ case 'ytmp3':
   },
   caption: `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp3 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.timestamp}
@@ -2706,7 +2706,7 @@ case 'ytmp3doc':
   },
   caption: `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Player* ✨
 │⿻ *Title:* ${videoInfo.title}
 │⿻ *Duration:* ${videoInfo.timestamp}
@@ -2755,7 +2755,7 @@ case 'ytmp3doc':
   },
   caption: `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp3 Player* ✨
 │⿻ *Title:* ${firstVideo.title}
 │⿻ *Duration:* ${firstVideo.timestamp}
@@ -2872,7 +2872,7 @@ const uploadDate = formatUploadDate(videoInfo.videoDetails.uploadDate) || 'N/A';
         // Construct caption with audio details
         const pollMessage = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${title}
 │⿻ *Author:* ${videoInfo.videoDetails.author.name || 'N/A'}
@@ -2949,7 +2949,7 @@ const uploadDate = formatUploadDate(videoInfo.videoDetails.uploadDate) || 'N/A';
         // Construct caption with audio details
         const caption = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${title}
 │⿻ *Author:* ${videoInfo.videoDetails.author.name || 'N/A'}
@@ -3027,7 +3027,7 @@ const uploadDate = formatUploadDate(videoInfo.videoDetails.uploadDate) || 'N/A';
         // Construct caption with audio details
         const caption = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${title}
 │⿻ *Author:* ${videoInfo.videoDetails.author.name || 'N/A'}
@@ -3110,7 +3110,7 @@ case '𝐕𝐢𝐝𝐞𝐨': {
 
 const captionText = `
 ╭═════════•∞•══╮
-│⿻ *GSS BOTWA*
+│⿻ *DORA BOTWA*
 │  *Youtube Mp4 Player* ✨
 │⿻ *Title:* ${title}
 │⿻ *Author:* ${videoInfo.videoDetails.author.name || 'N/A'}
@@ -5634,7 +5634,7 @@ case 'allmenu': {
     await doReact("📁");
     let a = db.data.users[m.sender];
     let introText = `
-╭──═❮ *GssBotwa* ❯═─┈•
+╭──═❮ *DORA* ❯═─┈•
 │ Hi *${pushname}* 👋  
 ╰–❖ *${greetingTime}* 😄 
 
